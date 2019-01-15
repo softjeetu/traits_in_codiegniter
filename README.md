@@ -1,5 +1,5 @@
 # Traits
-Using traits in codegniter through benchmark. Here I have used in traits feature in codeigniter as per my need of multiple inheritance to reduce the file code.
+Using traits in codegniter through benchmark. Here I have used traits feature in codeigniter as per need of multiple inheritance to reduce the file code.
 
 # What are traits in PHP
 
