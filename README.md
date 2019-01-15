@@ -1,3 +1,6 @@
+# Traits
+Using traits in codegniter through benchmark. Here I have used in traits feature in codeigniter as per my need of multiple inheritance to reduce the file code.
+
 # What are traits in PHP
 
 To overcome the problem of Multiple Inheritance, PHP introduced traits which is very much welcomed by PHP community.
